@@ -1,0 +1,11 @@
+open deliciasfitness.com.br
+print (username)
+digite nome:
+confere nome no banco de dados
+se ok passa para senha codigo/linha 7
+se nao confere print (nome de usuario errado)
+print (senha)
+digite senha:
+confere senha banco de dados
+se ok open (deliciasfitness.com.br/admin)
+se nao confere print (senha nao confere) volta para codigo/linha 2
